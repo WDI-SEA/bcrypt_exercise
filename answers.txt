@@ -1,7 +1,7 @@
 Answers
 
-Your name:
+Your name: Nhu
 
-Your hashed name (first time):
+Your hashed name (first time): f15
 
-Your hashed name (second time):
+Your hashed name (second time): f15
