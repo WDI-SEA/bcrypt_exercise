@@ -1,7 +1,8 @@
 Answers
 
-Your name:
+Your name: idothestamping
 
-Your hashed name (first time):
+Your hashed name (first time): 14f405341501ff
 
-Your hashed name (second time):
+Your hashed name (second time): 14f405341501ff
+
