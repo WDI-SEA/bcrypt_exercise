@@ -1,7 +1,9 @@
 Answers
 
-Your name:
+Your name: Paolo
 
 Your hashed name (first time):
+01f4f
 
 Your hashed name (second time):
+01f4f
