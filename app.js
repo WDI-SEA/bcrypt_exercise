@@ -1,7 +1,37 @@
-// TODOS
-// 1. Require bcrypt
-// 2. Get a password from the user
-// 3. Hash the password and store result in a local variable
-// 4. Get another password from the user
-// 5. If the second password matches the first one, print a success message
-// 6. If the second password does not match the first one, print 'access denied'
+var bcrypt = require('bcrypt');
+var saltRounds = 10;
+var myPlaintextPassword = 'password';
+var someOtherPlaintextPassword = 'not_password';
+var readlineSync = require('readline-sync');
+
+
+var userName = readlineSync.question('Enter your name: ');
+console.log('HI' + userName + '!');
+
+var userPassword = readlineSync.question('Enter your password: ',{
+	hideEchoBack: true
+})
+console.log("Password saved")
+
+
+var secPassword = readlineSync.question('Enter password again: ',{
+	hideEchoBack: true
+})
+console.log("Password saved")
+
+var hashedPassword = bcrypt.hashSync(userPassword, saltRounds);
+
+var pass = bcrypt.compareSync(userPassword, hashedPassword);
+var secPass = bcrypt.compareSync(secPassword, hashedPassword);
+
+
+
+var hashedPassword = bcrypt.hashSync(myPlaintextPassword, saltRounds);
+console.log('')
+
+
+if(bcrypt.compareSync(userPassword, hashedPassword)){
+	console.log('Passowords are a match')
+} else {
+	console.log('Passwords do not match')
+}

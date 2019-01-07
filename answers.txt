@@ -1,7 +1,7 @@
 Answers
 
-Your name:
+Your name: quiwaan
 
-Your hashed name (first time):
+Your hashed name (first time): 0c1802f7
 
 Your hashed name (second time):
