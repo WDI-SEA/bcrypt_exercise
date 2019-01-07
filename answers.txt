@@ -1,7 +1,23 @@
 Answers
 
-Your name:
+Question: What is the opposite of encryption?
+Decryption
 
-Your hashed name (first time):
+Question: What is the opposite of hashing?
+N/A
 
-Your hashed name (second time):
+
+Question: What are some examples of encryption?
+AES
+
+Question: What are some examples of hashing?
+SHA, password protecting. Good for when you want to compare a value with a stored value, but can't story its plain representation for security reasons.
+
+Your name: Sarah
+19-1-18-1-8
+3-1-2-1-0
+
+
+Your hashed name (first time): 31210
+
+Your hashed name (second time): 31210
