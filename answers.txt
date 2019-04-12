@@ -1,7 +1,9 @@
 Answers
 
-Your name:
+Your name: Nathan
+14-1-20-8-1-14
+f1401f
 
-Your hashed name (first time):
+Your hashed name (first time): f1401f
 
-Your hashed name (second time):
+Your hashed name (second time): f1401f
