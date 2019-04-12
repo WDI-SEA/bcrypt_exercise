@@ -1,7 +1,34 @@
 Answers
 
-Your name:
+Your name: Zac Wellsandt
+
+Question: What is the opposite of encryption? decryption
+Question: What is the opposite of hashing? n/a
+
+
+Question: What are some examples of encryption?
+passwords
+certain messenger apps
+
+
+
+Question: What are some examples of hashing?
+
+Password Verification
+Data Structures(Programming Languages)
+
+
 
 Your hashed name (first time):
+Zac
+26-1-3
+
+213
+
+
 
 Your hashed name (second time):
+Zac
+26-1-3
+
+213
