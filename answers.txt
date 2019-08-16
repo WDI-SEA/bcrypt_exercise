@@ -1,7 +1,10 @@
 Answers
 
 Your name:
+Kirk
 
 Your hashed name (first time):
+3123
 
 Your hashed name (second time):
+3123
