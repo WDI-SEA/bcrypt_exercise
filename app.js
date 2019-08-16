@@ -76,13 +76,19 @@ var passwordRetype = readlineSync.question('Can you please re-enter your passwor
 //         console.log("Your Passwords do not match");
 //     }
 // }
+count = 1
 
-while (password != passwordRetype){
+while (password != passwordRetype && count <5){
     console.log("the passwords do not match");
     passwordRetype = readlineSync.question('Can you please re-enter your password? ', {
-        hideEchoBack: true // The typed text on screen is hidden by `*` (default).
+        hideEchoBack: true  // The typed text on screen is hidden by `*` (default).
+
       });
-      
+      count++
+}
+
+if(count > 5) {
+  console.log('Please refresh the page and try again...');
 }
 
 if (password == passwordRetype) {
