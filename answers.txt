@@ -1,7 +1,14 @@
 Answers
 
 Your name:
+Yashoma
 
 Your hashed name (first time):
+25 - 1 - 19 - 8 - 15 - 13 - 1
+
+Used hash.js to get num%8.
 
 Your hashed name (second time):
+[A!, 3, 0, f, 5, 1]
+
+Final password: A!30f51
