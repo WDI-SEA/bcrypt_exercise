@@ -1,7 +1,12 @@
 Answers
 
-Your name:
+Your name: Kennan
 
-Your hashed name (first time):
+Your hashed name (first time): 35ff1f
+- 11-5-14-14-1-14
+- 3-5-6-6-1-6
+- 3-5-f-f-1-f
 
-Your hashed name (second time):
+35ff1f
+
+Your hashed name (second time): 35ff1f
