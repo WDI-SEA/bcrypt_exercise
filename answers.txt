@@ -1,7 +1,17 @@
 Answers
 
-Your name:
+Your name: will
 
-Your hashed name (first time):
+Your hashed name (first time): 23-9-12-12
 
-Your hashed name (second time):
+Your hashed name (second time): 7-1-4-4
+
+Change any instance of 6, 7, or 8 to the letter 'f':
+f-1-4-4
+
+Any time there are consecutive numbers (2 of the same number in a row), change it to a capital 'A' followed by an exclamation point.
+f-1-A!
+
+Concatenate all the characters together
+f1A!
+
