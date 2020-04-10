@@ -1,7 +1,13 @@
 Answers
 
-Your name:
+Your name: Paul 
 
-Your hashed name (first time):
+Your hashed name (first time): 0154
 
 Your hashed name (second time):
+
+2) 16-1-21-12
+3) 0-1-5-4
+4) 0-1-5-4
+5) 0-1-5-4
+6) 0154
