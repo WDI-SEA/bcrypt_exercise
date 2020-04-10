@@ -1,7 +1,15 @@
 Answers
 
-Your name:
+The opposite of encryption is decryption.
 
-Your hashed name (first time):
+I don’t think hashing has an “opposite” since it can’t be reversed
 
-Your hashed name (second time):
+The Enigma code the Germans used during WWII
+
+md5 is an example of hashing
+
+Your name:Guy
+
+Your hashed name (first time):f51
+
+Your hashed name (second time):f51
