@@ -1,7 +1,34 @@
 Answers
+Real Life Examples
+1. Credit card numbers stored in a company's database, Github SSH keys, Form data from a form using POST method, protecting military, government, or diplomatic data.   
+2. Authentication, id/password protections. Hash functions to compute memory locations. Hash tables are used for searching.
 
-Your name:
+Encryption is a way of scrambling data that can be reversed so that data can be used again. 
+Hashing is a way of scrambling data that can't be undone.
+
+Your name: Adam Honore
 
 Your hashed name (first time):
+1-4-1-13-8-15-14-15-18-5        Write name as numbers of the alphabet
+1-4-1-5-0-7-6-7-2-5             Modulus 8 of each number
+1-4-1-5-0-f-f-f-2-5             Change 6, 7, and 8s to the letter f
+1-4-1-5-0-f-f-f-2-5             Change the first of consecutive numbers to A!
+14150fff25                      Concatenate all characters together
 
 Your hashed name (second time):
+AdamHonore
+1-4-1-13-8-15-14-15-18-5
+1-4-1-5-0-7-6-7-2-5
+1-4-1-5-0-f-f-f-2-5
+1-4-1-5-0-f-f-f-2-5
+14150fff25                      (if this is what's being asked. Otherwise)
+
+14150fff25
+1-4-1-5-0-6-6-6-2-5
+1-4-1-5-0-6-6-6-2-5
+1-4-1-5-0-f-f-f-2-5
+1-4-1-5-0-f-f-f-2-5
+14150fff25                      Hashed name is the same as a written name when hashed
+
+
+
