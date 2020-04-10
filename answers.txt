@@ -1,7 +1,8 @@
 Answers
 
 Your name:
-
+    Lars
 Your hashed name (first time):
-
+    12-1-18-19 -> 4-1-2-3 -> 4123
 Your hashed name (second time):
+    12-1-18-19-4-1-2-3 -> 41234123
