@@ -1,7 +1,9 @@
 Answers
 
-Your name:
+Your name:  Scott McLeod
 
-Your hashed name (first time):
+Your hashed name (first time):  'A!fA!' '53445f4'
 
-Your hashed name (second time):
+
+Your hashed name (second time): 'A!fA!' '53445f4'
+
