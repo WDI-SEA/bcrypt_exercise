@@ -1,7 +1,11 @@
 Answers
 
-Your name:
+Your name: Gared
 
-Your hashed name (first time):
+Your hashed name (first time):f1f54
+f-1-f-5-4
+f1f54
+Your hashed name (second time):f1f54
+f-1-f-5-4
+f1f54
 
-Your hashed name (second time):
