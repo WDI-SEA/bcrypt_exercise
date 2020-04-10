@@ -1,7 +1,7 @@
 Answers
 
-Your name:
+Your name: Ruchita
 
-Your hashed name (first time):
+Your hashed name (first time): 2F301F1
 
-Your hashed name (second time):
+Your hashed name (second time):2F301F1
