@@ -89,23 +89,24 @@ If you're working with a partner, have your partner do this with their name too.
 #### 2. For each letter in your name, write down the order it appears in the alphabet. (e.g., for A write 1, for B write 2, etc.)
 
 For example, `Brandi` would change to `2-18-1-14-4-9`.
+'Jimmy' would change to  10-9-13-13-25
 
 #### 3. Take each number and mod it by 8. (divide by 8, but take the remainder instead of the quotient)
 
 For example, `2-18-1-14-4-9` becomes `2-2-1-6-4-1`. 
-
+10-9-13-13-25 becomes: 2-1-5-5-1
 #### 4. Change any instance of 6, 7, or 8 to the letter 'f'
 
 For example, `2-2-1-6-4-1` becomes `2-2-1-f-4-1`
-
+2-1-5-5-1 becomes: 2-1-5-5-1
 #### 5. Any time there are consecutive numbers (2 of the same number in a row), change it to a capital 'A' followed by an exclamation point.
 
 For example, `2-2-1-f-4-1` becomes `A!-1-f-4-1`
-
+2-1-5-5-1 becomes: 2-1-A!-1
 #### 6. Concatenate all the characters together
 
 For example `A!-1-f-4-1` becomes `A!1f41`. So, according to our hash function, `Brandi` becomes `A!1f41`. What's your hashed name?
-
+MY HASHED NAME IS '21A!1'
 #### 7. Take your answer and write it in the `answers.txt` file.
 
 You can find answers.txt in this repository. If you haven't done so already, please fork and clone this repo.
