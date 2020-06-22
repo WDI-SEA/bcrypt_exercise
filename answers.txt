@@ -1,7 +1,11 @@
 Answers
 
-Your name:
+Your name: Kelly
 
-Your hashed name (first time):
+Your hashed name (first time): 11-5-12-12-25
+			3-5-4-4-1			 
+			3-5-A!-1
+			35A!1 //final hased name
+			
 
 Your hashed name (second time):
