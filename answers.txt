@@ -1,7 +1,7 @@
 Answers
 
-Your name:
+Your name: Enzo
 
-Your hashed name (first time):
+Your hashed name (first time): 5f2f
 
-Your hashed name (second time):
+Your hashed name (second time): 5f2f
