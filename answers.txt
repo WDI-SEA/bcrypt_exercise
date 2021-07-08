@@ -1,7 +1,10 @@
 Answers
 
 Your name:
+Brad
 
 Your hashed name (first time):
+A!14
 
 Your hashed name (second time):
+A!14
